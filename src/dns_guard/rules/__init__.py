@@ -1,0 +1,1 @@
+"""Independent domain-analysis rules."""

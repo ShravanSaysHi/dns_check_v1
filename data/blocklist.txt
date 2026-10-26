@@ -1,0 +1,2 @@
+# Synthetic test entries only. These are reserved example domains.
+malware.test

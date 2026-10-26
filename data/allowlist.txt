@@ -1,0 +1,4 @@
+# Demonstration examples only; this does not guarantee every subdomain is safe.
+example.com
+python.org
+wikipedia.org
